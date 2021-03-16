@@ -31,7 +31,8 @@ Growth mindset video:
 
 Brief:
 
-I am **Abdelrahman Mohammad**, Civil Engineer graduated from AUM. I have joined this course becuase it is a great opportunity to learn about programming and improve myslef in this field as much as I can. 
+I am **Abdelrahman Mohammad**, Civil Engineer graduated from AUM. I have joined this course because it is a great opportunity to learn about programming and improve myself in this field as much as I can. 
 
 My link on GitHub:
+
 [My profile](https://github.com/Daour211) looking forward to work with you mates. 
