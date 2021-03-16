@@ -1,6 +1,6 @@
 # reading-notes
 
-##Growth mindset
+## Growth mindset
 
 **Growth Mindset** is like a state of mind to *believe that the person abilities can be developed and enhanced through perseverance and effort*,it is not just about talent or intelligence that would be sufficient for anything. So the growth mindset is all about leraing and keep pusing forward.
 
