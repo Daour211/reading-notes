@@ -16,3 +16,4 @@ Tbale of contents:
 |Read 02a          | [Markdown](read02a.md)            |
 |Read 02b          | [Version Control](read02b.md)     |
 |Lab02a            | [Growth Mindset](lab02a)          | 
+|Read 03          | [Chapter 1,8,17](read03.md)            |
