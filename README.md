@@ -19,3 +19,4 @@ Tbale of contents:
 |Read 03           | [HTML: Chapter 1,8,17](read03.md)                                |
 |Read 04           | [JS: Inrouction, Chapter 1 & Page 74-79](read04.md)              |
 |Read05            | [ Comparison & logical operators + for & while loops](read05.md) |
+|Read06            | [ CSS: chapter 10,11](read06.md)                                 |
