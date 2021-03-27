@@ -27,4 +27,4 @@ Tbale of contents of 201:
   
 |   Assignment     | Link                                              |
 |------------------|---------------------------------------------------|
-|class-01          | [HTML: Ch. 1+8+17+18 & JS: Ch. 1](102/class-01.md)| 
+|class-01          | [HTML: Ch. 1+8+17+18 & JS: Ch. 1](201/class-01.md)| 
