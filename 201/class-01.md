@@ -85,7 +85,7 @@ Also this element it should not be used as a container for an entire page. It is
 
 - **Figures < figure> < figcaption>**: it is used to contain any content that is referenced from the main subject of an article.
 
-Examples of usage include:
+Examples of usage include: <br>
 ● Images
 ● Videos
 ● Graphs
@@ -93,10 +93,11 @@ Examples of usage include:
 ● Code samples
 ● Text that supports the main body of an article
 
-<figcaption> element should always be inside the <figure> element, it provides description of the content of figure element.
-**Sectioning elements**: < div > defines a division or a section 
+<figcaption> element should always be inside the <figure> element, it provides description of the content of figure element. <br>
 
-**Linking around block-level elements**: < a > use this tag to link to other pages
+**Sectioning elements**: < div > defines a division or a section. <br>
+
+**Linking around block-level elements**: < a > use this tag to link to other pages. <br>
 
 ### Chapter 18: 
 
@@ -128,9 +129,9 @@ Helpful questions to build and design the website:
 
 Another important point is how to deliver the message to the visitors. And by **organizing and prioritizing the information**, the user can understand the order of the page and the importance. Method or techniques used for organizing and prioritizing:
 
- -	*Visual hierarchy*: it is a way of arranging and showing elements in order of their importance.     Visual contrast between the materials, items is what creates the visual hierarchy.  This can be presented using: images, font size, font color or font style. 
+ -	*Visual hierarchy*: it is a way of arranging and showing elements in order of their importance.     Visual contrast between the materials, items is what creates the visual hierarchy.  This can be presented using: images, font size, font color or font style. <br>
 
- -	*Grouping and similarity*: are ways of organizing the elements of the page to be viewed. Grouping the information that are related to each other make the design easier to understand it. As for the similarity the repetition of some features such as: color. size, font, shape…etc. shows that the elements have the same importance or meaning. 
+ -	*Grouping and similarity*: are ways of organizing the elements of the page to be viewed. Grouping the information that are related to each other make the design easier to understand it. As for the similarity the repetition of some features such as: color. size, font, shape…etc. shows that the elements have the same importance or meaning. <br>
 
 # Duckett JS:
 
