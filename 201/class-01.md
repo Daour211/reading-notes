@@ -132,7 +132,7 @@ Another important point is how to deliver the message to the visitors. And by **
 
  -	*Grouping and similarity*: are ways of organizing the elements of the page to be viewed. Grouping the information that are related to each other make the design easier to understand it. As for the similarity the repetition of some features such as: color. size, font, shape…etc. shows that the elements have the same importance or meaning. 
 
-Duckett JS:
+# Duckett JS:
 
 ### Chapter 1:
 

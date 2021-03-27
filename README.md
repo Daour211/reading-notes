@@ -8,7 +8,7 @@ My link on GitHub:
 
 [My profile](https://github.com/Daour211) looking forward to work with you mates. 
 
-Tbale of contents of 102: 
+Table of contents of 102: 
   
 |   Assignment     | Link                                                                 |
 |------------------|----------------------------------------------------------------------|
@@ -23,7 +23,7 @@ Tbale of contents of 102:
 
 
 
-Tbale of contents of 201: 
+Table of contents of 201: 
   
 |   Assignment     | Link                                              |
 |------------------|---------------------------------------------------|
