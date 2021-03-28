@@ -8,7 +8,7 @@ My link on GitHub:
 
 [My profile](https://github.com/Daour211) looking forward to work with you mates. 
 
-Table of contents of 102: 
+## Table of contents of 102: 
   
 |   Assignment     | Link                                                                 |
 |------------------|----------------------------------------------------------------------|
@@ -23,8 +23,9 @@ Table of contents of 102:
 
 
 
-Table of contents of 201: 
+## Table of contents of 201: 
   
 |   Assignment     | Link                                              |
 |------------------|---------------------------------------------------|
 |class-01          | [HTML: Ch. 1+8+17+18 & JS: Ch. 1](201/class-01.md)| 
+|class-02          | [HTML: Ch. 2+10 & JS: Ch. 2+4](201/class-02.md)   | 
