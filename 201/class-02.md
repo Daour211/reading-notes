@@ -110,7 +110,7 @@ The variable can have any of the three data types.
 
 *Array*: is a type of a variable used to store list of values. It is declared like any other variable, but as for assigning the values they should be in square brackets and separated by comma.
 
-e.g: color = [ ‘white’, ‘black’, ‘blue’]  this is called array literal
+e.g: color = [ ‘white’, ‘black’, ‘blue’] => this is called array literal
 
 e.g: color = new Array ( ‘white’, ‘black’, ‘blue’)  this is called array constructor
 

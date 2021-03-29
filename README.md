@@ -29,3 +29,4 @@ My link on GitHub:
 |------------------|---------------------------------------------------|
 |class-01          | [HTML: Ch. 1+8+17+18 & JS: Ch. 1](201/class-01.md)| 
 |class-02          | [HTML: Ch. 2+10 & JS: Ch. 2+4](201/class-02.md)   | 
+|class-03          | [HTML: Ch. 3+13 & JS: Ch. 2+4](201/class-03.md)   | 

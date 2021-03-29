@@ -86,14 +86,14 @@ Also this element it should not be used as a container for an entire page. It is
 - **Figures < figure> < figcaption>**: it is used to contain any content that is referenced from the main subject of an article.
 
 Examples of usage include: <br>
-● Images
-● Videos
-● Graphs
-● Diagrams
-● Code samples
-● Text that supports the main body of an article
+ ● Images
+ ● Videos
+ ● Graphs
+ ● Diagrams
+ ● Code samples
+ ● Text that supports the main body of an article
 
-<figcaption> element should always be inside the <figure> element, it provides description of the content of figure element. <br>
+< figcaption> element should always be inside the <figure> element, it provides description of the content of figure element. <br>
 
 **Sectioning elements**: < div > defines a division or a section. <br>
 
