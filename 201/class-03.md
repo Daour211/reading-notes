@@ -2,9 +2,9 @@
 
 ### Chapter 3: Lists 
 
-**Ordered list**: use the < ol> tag to create ordered list and inside it we use the <li> tag to set each item.
+**Ordered list**: use the < ol> tag to create ordered list and inside it we use the <  li> tag to set each item.
 
-**Unordered list**: use the  <ul> tag to create unordered list and inside it we use the <li> tag to set each item.
+**Unordered list**: use the  < ul> tag to create unordered list and inside it we use the < li> tag to set each item.
 
 Definitions lists:
  < dl>: definition list tag used to consist a series of terms and their definitions. And inside it we have < dt> & < dd> tags as pairs.
@@ -157,15 +157,17 @@ break;
 
 Truthy and Falsy values: 
  -	Falsy values: values treated as they were false.
- -	Truthy values: values treated as they were true
- ![Falsy values](img/Falsyvalues.png)
- ![Truthy values](img/Truthyvalues.png)
+ -	Truthy values: values treated as they were true<br>
 
+ ![Falsy values](/img/Falsyvalues.png)<br>
 
+ ![Truthy values](/img/Truthyvalues.png)
+
+!
 CHECKING EQUALITY & EXISTENCE:
-*Unary operator*: it returns a result with one operand 
+*Unary operator*: it returns a result with one operand <br>
 
-![JS strict equal operator & falsy values](img/JSstrictequaloperator&falsyvalues.png)
+![JS strict equal operator & falsy values](/img/JSstrictequaloperator&falsyvalues.png)
 
 **Short circuit values**:
  
@@ -173,9 +175,9 @@ CHECKING EQUALITY & EXISTENCE:
 
  Logical operator can return different values from true or false:
   -	Because they return the value where the processing was stopped
-  -	Because the values can be considered as truthy or flasy even though it was not a Boolean 
+  -	Because the values can be considered as truthy or flasy even though it was not a Boolean <br>
 
-  ![related to shortcircuit value](img/relatedtoshortcircuitvalue.png)
+  ![related to shortcircuit value](/img/relatedtoshortcircuitvalue.png)
 
 
 
