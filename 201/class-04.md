@@ -9,7 +9,7 @@ When I link to other websites the value of “href” attribute is known as Abso
 - **When creating a large website**, it is preferred to have the pages of different sections in separated file(directories).
 
 How to write Relative Links: 
-![Relative links](/img/Relative-links.png)
+![Relative links](../img/Relative-links.jpg)
 
 **Email links**: to link the email of the user, we add “mailto” to the href attribute.<br>
  e.g: < a href=mailto:jon@example.org ></a>
