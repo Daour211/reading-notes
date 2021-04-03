@@ -80,7 +80,7 @@ To take into consideration that when choose a typeface, it is important to under
  -	Percentages
  -	em: which is equivalent to the width of the letter m.
 
-![font-size](../img/font-size.jpg)
+![font-size](../img/class05/font-size.jpg)
 
 
 
@@ -116,7 +116,7 @@ I use “@font-face” to use font which is not installed to the computer of the
 
 **Leading**: a term used for the vertical space between lines of text. In a typeface, the part of a letter that drops beneath the baseline is called a descender, while the highest point of a letter is called the ascender. Leading is measured from the bottom of the descender on one line to the top of the ascender on the next.
 
-![leadinf for text diagram](../img/leading-for-text.jpg)
+![leadinf for text diagram](../img/class05/leading-for-text.jpg)
 
 The property “line-height” sets the height of an entire line of text, so the difference between the font-size and the line-height is equivalent to the leading. And by increasing the line-height, it will make the vertical gap between lines of text larger.
 
@@ -161,4 +161,4 @@ The property “word-spacing” to control the space between words.
 
 **Attribute selector**:
 
-![attribute selector](../img/attribute-selector.jpg)
+![attribute selector](../img/class05/attribute-selector.jpg)

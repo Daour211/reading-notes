@@ -159,15 +159,15 @@ Truthy and Falsy values:
  -	Falsy values: values treated as they were false.
  -	Truthy values: values treated as they were true<br>
 
- ![Falsy values](../img/Falsyvalues.jpg)<br>
+ ![Falsy values](../img/class03/Falsyvalues.jpg)<br>
 
- ![Truthy values](../img/Truthyvalues.jpg)
+ ![Truthy values](../img/class03/Truthyvalues.jpg)
 
 !
 CHECKING EQUALITY & EXISTENCE:
 *Unary operator*: it returns a result with one operand <br>
 
-![JS strict equal operator & falsy values](../img/JSstrictequaloperator&falsyvalues.jpg)
+![JS strict equal operator & falsy values](../img/class03/JSstrictequaloperator&falsyvalues.jpg)
 
 **Short circuit values**:
  
@@ -177,7 +177,7 @@ CHECKING EQUALITY & EXISTENCE:
   -	Because they return the value where the processing was stopped
   -	Because the values can be considered as truthy or flasy even though it was not a Boolean <br>
 
-  ![related to shortcircuit value](../img/relatedtoshortcircuitvalue.jpg)
+  ![related to shortcircuit value](../img/class03/relatedtoshortcircuitvalue.jpg)
 
 
 
