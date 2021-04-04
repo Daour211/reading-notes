@@ -33,3 +33,4 @@ My link on GitHub:
 |class-04          | [HTML: Ch. 4+15 & JS: Ch. 3](201/class-04.md)     |
 |class-05          | [HTML: Ch. 5+11+12 ](201/class-05.md)             |
 |class-06          | [JS: Ch. 3+5](201/class-06.md)                    |
+|class-07          | [HTML: Ch. 6 & JS: Ch. 3](201/class-07.md)        |
