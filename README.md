@@ -34,3 +34,4 @@ My link on GitHub:
 |class-05          | [HTML: Ch. 5+11+12 ](201/class-05.md)             |
 |class-06          | [JS: Ch. 3+5](201/class-06.md)                    |
 |class-07          | [HTML: Ch. 6 & JS: Ch. 3](201/class-07.md)        |
+|class-08          | [HTML: Ch. 15](201/class-08.md)                    |

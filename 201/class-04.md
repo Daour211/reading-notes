@@ -21,7 +21,7 @@ e.g: < a href=”#” target=”_blank” >< /a>
 - To link to a specific part of other pages, you need to identify that part using the id attribute , and use the value of  id attribute as the value of “href” attribute, and type prior to that the relative or absolute URL of the page.
 
 
-### Chapter 15 Layout 
+### Chapter 15 Layout   p. 358-370
 
 Key concepts in positioning elements:
   -	**Building Block**: Block-level element act as the main the building block of the page layout, while the inline boxes flow between the surrounding text.
