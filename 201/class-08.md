@@ -1,4 +1,4 @@
-### Chapter 15 Layout   p. 358-370
+### Chapter 15 Layout   (The whole chapter)
 
 Key concepts in positioning elements:
   -	**Building Block**: Block-level element act as the main the building block of the page layout, while the inline boxes flow between the surrounding text.
