@@ -36,4 +36,5 @@ My link on GitHub:
 |class-07          | [HTML: Ch. 6 & JS: Ch. 3](201/class-07.md)        |
 |class-08          | [HTML: Ch. 15](201/class-08.md)                   |
 |class-09          | [HTML: Ch. 7+14 & JS: Ch. 6](201/class-09.md)     |
-|class-10          | [JS: Ch. 10](201/class-10.md)     |
+|class-10          | [JS: Ch. 10](201/class-10.md)                     |
+|class-11         | [HTML: Ch. 16+19](201/class-11.md)                 |
