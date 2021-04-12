@@ -19,15 +19,15 @@ The hoisting is a JavaScript mechanism where variables and function declarations
 **Error Objects**: used to find the mistakes, and browsers have tools to read them
 
 
-![Error objects 1](../img/error-objects.jpg) <br>
+![Error objects 1](../img/class10/error-objects.jpg) <br>
 
 
-![Error objects 2](../img/error-objects-2.jpg) <br>
+![Error objects 2](../img/class10/error-objects-2.jpg) <br>
 
-![Error objects 3](../img/error-objects-3.jpg) <br>
+![Error objects 3](../img/class10/error-objects-3.jpg) <br>
 
 
-![Error objects 4](../img/error-objects-4.jpg) <br>
+![Error objects 4](../img/class10/error-objects-4.jpg) <br>
 
 
 **Debugging is about deduction**: eliminating potential causes of an error.
@@ -75,7 +75,7 @@ Using “**throw new Error*(‘ message ‘)**;” to create the error. This cre
 
 
 
-![Common Errors](../img/Common-errors.jpg)
+![Common Errors](../img/class10/Common-errors.jpg)
 
 
 

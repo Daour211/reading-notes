@@ -38,3 +38,4 @@ My link on GitHub:
 |class-09          | [HTML: Ch. 7+14 & JS: Ch. 6](201/class-09.md)     |
 |class-10          | [JS: Ch. 10](201/class-10.md)                     |
 |class-11         | [HTML: Ch. 16+19](201/class-11.md)                 |
+|class-12         | [Chart.JS and related topics](201/class-12.md)     |
