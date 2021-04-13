@@ -39,3 +39,4 @@ My link on GitHub:
 |class-10          | [JS: Ch. 10](201/class-10.md)                     |
 |class-11         | [HTML: Ch. 16+19](201/class-11.md)                 |
 |class-12         | [Chart.JS and related topics](201/class-12.md)     |
+|class-13         | [Local Storage](201/class-13.md)     |
