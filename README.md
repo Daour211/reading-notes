@@ -41,3 +41,4 @@ My link on GitHub:
 |class-12         | [Chart.JS and related topics](201/class-12.md)     |
 |class-13         | [Local Storage](201/class-13.md)                   |
 |class-13b         | [CSS Transforms, Transitions, and Animations](201/class-13b.md)     |
+|class-14         | [What Google Learned About Teams](201/class-14.md) |
