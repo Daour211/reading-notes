@@ -2,7 +2,7 @@
 
 ### Chapter 4: Links
 
-**Writing Links**: I can write a link using the “a” element. I add the link to “href” attribute.
+**Writing Links**: I can write a link using the **< a>** element. I add the link to “**href**” attribute.
 
 When I link to other websites the value of “href” attribute is known as Absolute URL (the full address), and when I link to other pages on the same site the value is known as Relative URL(no need to specify the domain).
 
@@ -62,18 +62,19 @@ Key concepts in positioning elements:
 
 **Functions**: is a series of statements added together set to perform a specific task.
 
-Function declaration: giving a name and writing a statements inside curly braces. It is created from two parts:
+**Function declaration**: giving a name and writing a statements inside curly braces. It is created from two parts:
  1-	Function keyword “function”.
  2-	Function name.
-A
-nd after the function name write the curly braces and inside we have the code.<br>
+
+And after the function name write the curly braces and inside we have the code.
+
 And to execute the statements of the function, we do “calling” the function.
 
 Sometimes an information is needed to be added to the function, and we add this information known as “**parameter**” to perform the task inside the function.<br>
 
 And for calling functions that has parameters, we assign values to the parameters and these called as “**arguments**”.
 
-There are functions which return a value when it is called, and this done by “return” at the end of the function.
+There are functions which return a value when it is called, and this done by “**return**” at the end of the function.
 
 Also functions can return more than one value, by using the array.
 
@@ -91,6 +92,6 @@ The final parentheses are the one after the closing curly braces and inform to r
 The grouping operators are the opening parentheses before the function word and the last parentheses “*closing one*”, and these used to inform the interpreter to treat the function as expression.
 
 Variable scope: The location where you declare a variable will affect where it can be used in the code. And there are two types:
- 1-	Local variable: when the variable is created inside a function called a local variable. And it cannot be accessed outside the function
- 2-	Global variable: it is a variable created outside a function and can be used/accessed anywhere in the code.
+ 1-	**Local variable**: when the variable is created inside a function called a local variable. And it cannot be accessed outside the function
+ 2-	**Global variable**: it is a variable created outside a function and can be used/accessed anywhere in the code.
 

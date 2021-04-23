@@ -17,9 +17,9 @@ To control the size of the image using the “width” and “height” properti
 
  2-	 On the image itself, you can use the use the margin property and set the values of the left and right margins to auto.
 
-Background images: “background-image” property allows you to place an image behind any HTML element. The path to the image follows the letters url, and it is put inside parentheses and quotes.
+**Background images**: “**background-image**” property allows you to place an image behind any HTML element. The path to the image follows the letters url, and it is put inside parentheses and quotes.
 
-**Repeating images**: it can be done using the “background-repeat” property which have four values:
+**Repeating images**: it can be done using the “**background-repeat**” property which have four values:
  
  -	repeat: background image is repeated both horizontally and vertically
  -	repeat-x: s repeated horizontally only

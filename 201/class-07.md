@@ -11,7 +11,7 @@
 **< th>** elment used for adding heading for either column or row, and it works the same as <td>. 
 
 
-- Even if there is no content we must use the <td> or <th> to represent the presence of an empty cell.
+- Even if there is no content we must use the < td> or < th> to represent the presence of an empty cell.
 
 **Spanning column**: “**colspan**” attribute is used to stretch the entries of the data across more than one column. And the value of the attribute indicates how many columns to across.<br>
 

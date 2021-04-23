@@ -1,6 +1,6 @@
 # Duckett HTML:
 
-### Chapter 1:
+### Chapter 1: Structure
 
 The chapter explains about the HTML and that is the structure of the page. There are two main parts of the page:
 
@@ -23,7 +23,7 @@ They add information which are additional to the content of an element. They are
  -	Name: show the type of the extra information about the element
  -	Value: information about the attribute and it is placed between double quotes
 
-### Chapter :
+### Chapter 8: Extra Markup
 
 - **DOCTYPE**: it is a declaration to inform what version of HTML is being used.
 
@@ -32,7 +32,8 @@ They add information which are additional to the content of an element. They are
 - **Id attribute**: it is used to distinguish or identify that element from other elements. It starts with a letter or an underscore. Be attention that no two elements on the same have the same value of the id attributes on the same page.
 
 - **Class Attribute**: it is a way to identify several elements on the same page.
-Block Elements: They are elements which always start on a new line in the browser window and they are called Block Level. 
+
+- **Block Elements**: They are elements which always start on a new line in the browser window and they are called Block Level. <br>
 Examples of block elements are: < h1 >, < p >, < ul >, and < li >.
 
 - **Inline Elements**: they are elements which continue on the same line as their neighboring elements. 
@@ -68,9 +69,9 @@ There are a few attributes to know how to use the iframe element:
 **Escape Characters**: characters that are reserved in HTML.
 
 
-### Chapter 17:
+### Chapter 17: HTML5 Layout
 
-Headers & Footers: they are parts of the body and appear on the top < header > and the bottom < footer >.
+- **Headers & Footers**: they are parts of the body and appear on the top < header > and the bottom < footer >.
 
 - **Navigation < nav >**:  an element that is used to navigate in the site through major navigational blocks.
 
@@ -78,7 +79,7 @@ Headers & Footers: they are parts of the body and appear on the top < header > a
 
 - **Aside: < aside >** its usage depends on its location whether its inside the element < article > or not. If it is inside, it contains information related to the article but not for its essential meaning. And if it is outside, acts as container for a content that is related the entire page.
 
-- **Sections**: < section > it classifies related content together, and each section has its own heading. It may have several distinct <article> elements. On the other hand, if there is a long article a <section> element can be used to divide the article.
+- **Sections**: **< section >** it classifies related content together, and each section has its own heading. It may have several distinct <article> elements. On the other hand, if there is a long article a <section> element can be used to divide the article.
 Also this element it should not be used as a container for an entire page. It is preferable to use <div> element.
 
 - **Headings**: *< hgroup >* it is used for headings and it varies from 1 up to 6 depending on the importance of the subject.
@@ -86,40 +87,40 @@ Also this element it should not be used as a container for an entire page. It is
 - **Figures < figure> < figcaption>**: it is used to contain any content that is referenced from the main subject of an article.
 
 Examples of usage include: <br>
- ● Images
- ● Videos
- ● Graphs
- ● Diagrams
- ● Code samples
+ ● Images <br>
+ ● Videos <br>
+ ● Graphs <br>
+ ● Diagrams <br>
+ ● Code samples <br>
  ● Text that supports the main body of an article
 
-< figcaption> element should always be inside the <figure> element, it provides description of the content of figure element. <br>
+**< figcaption>** element should always be inside the < figure> element, it provides description of the content of figure element. <br>
 
 **Sectioning elements**: < div > defines a division or a section. <br>
 
 **Linking around block-level elements**: < a > use this tag to link to other pages. <br>
 
-### Chapter 18: 
+### Chapter 18: Process & Design
 
 Helpful questions to build and design the website:
 
- 1-	Who is the Site for?
+ 1-	**Who is the Site for?**
 
  The site is created for an audience and it important to understand this target.
 
- 2-	Why People Visit YOUR Website?
+ 2-	**Why People Visit YOUR Website?**
 
  You must know the reason for visiting the website.
 
- 3-	What Your Visitors Are Trying to Achieve?
+ 3-	**What Your Visitors Are Trying to Achieve?**
 
  This question is to look for the key tasks or the motivation
 
- 4-	What Information Your Visitors Need
+ 4-	**What Information Your Visitors Need**
 
  In this step you must provide the visitors with information about the what they are looking for, so they can fulfill their goals.
 
- 5-	How Often People Will Visit Your Site
+ 5-	**How Often People Will Visit Your Site**
 
  This question is a significant one, especially for the sites that needs to be updated frequently.
 
@@ -129,19 +130,19 @@ Helpful questions to build and design the website:
 
 Another important point is how to deliver the message to the visitors. And by **organizing and prioritizing the information**, the user can understand the order of the page and the importance. Method or techniques used for organizing and prioritizing:
 
- -	*Visual hierarchy*: it is a way of arranging and showing elements in order of their importance.     Visual contrast between the materials, items is what creates the visual hierarchy.  This can be presented using: images, font size, font color or font style. <br>
+ -	**Visual hierarchy**: it is a way of arranging and showing elements in order of their importance.     Visual contrast between the materials, items is what creates the visual hierarchy.  This can be presented using: images, font size, font color or font style. <br>
 
- -	*Grouping and similarity*: are ways of organizing the elements of the page to be viewed. Grouping the information that are related to each other make the design easier to understand it. As for the similarity the repetition of some features such as: color. size, font, shape…etc. shows that the elements have the same importance or meaning. <br>
+ -	**Grouping and similarity**: are ways of organizing the elements of the page to be viewed. Grouping the information that are related to each other make the design easier to understand it. As for the similarity the repetition of some features such as: color. size, font, shape…etc. shows that the elements have the same importance or meaning. <br>
 
 # Duckett JS:
 
-### Chapter 1:
+### Chapter 1: The ABC of Programming 
 
 **Script**: is a set of series instructions to fulfill a goal. It is not necessary to run the whole script; it may run only subset of the code.  
 
 Three steps can be helpful to write the instruction: 
- 1-	Define the goal
- 2-	Design the script 
+ 1-	Define the goal <br>
+ 2-	Design the script <br>
  3-	Code each step
 
 **Object**: used in programming to represent physical things.

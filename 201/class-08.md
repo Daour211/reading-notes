@@ -76,5 +76,5 @@ CSS Framework: it provides the code from the common task, such as creating layou
 
 Two ways to add multiple style sheets to a page:
 
- 1-	The HTML page can link to one style sheet, and that stylesheet can use the “@import” rule to import other style sheets.
+ 1-	The HTML page can link to one style sheet, and that stylesheet can use the “@import” rule to import other style sheets.<br>
  2-	In the HTML you can use a separate < link> element for each style sheet.

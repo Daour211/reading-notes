@@ -19,7 +19,7 @@ The period is known as the member operator.
  -	Second way is only to access the properties and it works as follow: the object name followed by square bracket and the property inside the brackets.
 
 ![Method of accessing object](../img/class06/method-of-writing-object.jpg)
-Add photo--------------
+
 
 ### Chapter 5: Document Object Model 
 
@@ -92,7 +92,7 @@ Example of of accessing and changing a node
  ![Example of of accessing and changing a node ](../img/class06/example-of-changing&accessing-nodevalue.jpg)
 
 Access and update text with textcontent: using the “textContent” property to update or collect the text in the containing element and its children
-Add photo example of textContent ---------------
+
 
 Adding & removing HTML content: there are two approaches for add & removing HTML contents as follow:
 
@@ -116,13 +116,14 @@ Example of updating the text and markup
 
 
 DOM manipulation of adding elements: there are 3 steps
- 1-	Create element using “createElement()”
- 2-	Give it contet using “createTextNode()”
- 3-	Add it to DOM using “appendChild()”
 
-DOM manipulation for removing element: there are 3 steps
- 1-	Store the element to be removed in a variable
- 2-	Store the parent of that element in a variable. The easiest way is by using “parentNode” property.
+ 1-	Create element using “createElement()” <br>
+ 2-	Give it contet using “createTextNode()” <br>
+ 3-	Add it to DOM using “appendChild()” <br>
+
+DOM manipulation for removing element: there are 3 steps <br>
+ 1-	Store the element to be removed in a variable <br>
+ 2-	Store the parent of that element in a variable. The easiest way is by using “parentNode” property. <br>
  3-	Remove element from its containing element, by “removeChild()” method used on the containing element in step 2.
 
 Example of DOM manipulation removing:

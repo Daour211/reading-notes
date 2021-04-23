@@ -7,9 +7,9 @@
 **Unordered list**: use the  < ul> tag to create unordered list and inside it we use the < li> tag to set each item.
 
 Definitions lists:
- < dl>: definition list tag used to consist a series of terms and their definitions. And inside it we have < dt> & < dd> tags as pairs.
- < dt>: contain the term that is going to be defined.
- < dd>: contain the definition of the term
+ **< dl>**: definition list tag used to consist a series of terms and their definitions. And inside it we have **< dt>** & **< dd>** tags as pairs.<br>
+ **< dt>**: contain the term that is going to be defined.<br>
+ **< dd>**: contain the definition of the term
 
 **Nested list**: created by adding a list inside an < li> element
 
@@ -31,58 +31,59 @@ Limiting Height: by using
  -	max-height: to the largest size can be displayed when the window is wide
 
 **Overflowing content**: overflow property used to inform the browser how to deal with a content that is larger than the box. And this done using two values:
- 1.	overflow: hidden: it hides any extra content that does not fit in the box
- 2.	overflow: scroll: it adds scroll bar to show all the missing content that is not shown
+ 1.	**overflow: hidden**: it hides any extra content that does not fit in the box
+ 2.	**overflow: scroll**: it adds scroll bar to show all the missing content that is not shown
 
 Each box has 3 properties can be modified to control its appearance:
- 1.	Border: every box has its border, which separate the boxes from each other.
- 2.	Margin: it is the space outside the border of the box 
- 3.	Padding: it is the space between the border of a box and the element inside it.
+ 1.	**Border**: every box has its border, which separate the boxes from each other.
+ 2.	**Margin**: it is the **space outside the border of the box** 
+ 3.	**Padding**: it is the **space between the border of a box and the element inside it.**
 
-*Border width*: used to determine the width of a border. Its values can be as pixels or one the following: 
+**Border width**: used to determine the width of a border. Its values can be as pixels or one the following: 
  -	 thin
  -	medium
  -	thick
-e.g: border-width: 4px; 
+
+e.g: border-width: 4px; <br>
      border-width: thin
 
-Also I can specify which side of the border I want to edit: top, right, bottom, left.
+Also I can specify which side of the border I want to edit: top, right, bottom, left.<br>
 e.g: border-left-width: thick
 
 
-*Border Style*: I set the border style
-e.g: border-style: solid;
+**Border Style**: I set the border style<br>
+e.g: border-style: solid;<br>
      border style: dotted
 
-*Border Color*: I can set the whole border color or any side I want f the border
-e.g: border-color: blue; 
+*Border Color*: I can set the whole border color or any side I want f the border<br>
+e.g: border-color: blue; <br>
      border-top-color: red; 
 
-Border property **“border”** can be used as shorthand to set the width, style, color in one property.
+Border property “**border**” can be used as **shorthand to set the width, style, color in one property.**<br>
 e.g: border: 4px dotted blue;
 
-**Padding**: I can set the padding I want, between the element and the box. And I can specify a certain side of the element.
-e.g: padding:10px;
+**Padding**: I can set the padding I want, between the element and the box. And I can specify a certain side of the element. <br>
+e.g: padding:10px; <br>
       padding-top: 4px;
 
-**Margin**: I can set the margin I want, between the boxes. And I can specify a certain side of the element.
-e.g: margin:10px;
+**Margin**: I can set the margin I want, between the boxes. And I can specify a certain side of the element. <br>
+e.g: margin:10px; <br>
       margin-top: 4px;
 
 
 **Centering**: 
--	to center a box 	inside a page (or center it inside the element which sits in), we set the left and right margins to auto. And the width of the box needs to be set or it will take the full width of the page
+-	to center a box inside a page (or center it inside the element which sits in), we **set the left and right margins to auto**. And the width of the box needs to be set or it will take the full width of the page
 
-**Change Inline/Block**: The property “display” allows to turn inline element to block-level element and vice versa. The values of the property:
- -	inline: change the act from block-level element to inline element 
- -	block: change the act from inline element to block-level element
- -	inline-block: change the act from block-level element to inline element, but it keep other features of a block-level element 
- -	none: it hides the element from the page
+**Change Inline/Block**: The property “**display**” allows to turn inline element to block-level element and vice versa. The values of the property:
+ -	**inline**: change the act from block-level element to inline element 
+ -	**block**: change the act from inline element to block-level element
+ -	**inline-block**: change the act from block-level element to inline element, but it keep other features of a block-level element 
+ -	**none**: it hides the element from the page<br>
 e.g: display: none;
 
-**Hiding boxes**: using the “visibility” property to hide the boxes from users. This property takes two values: 
- 1.	hidden: hide the element
- 2.	visible: show the element
+**Hiding boxes**: using the “**visibility**” property to hide the boxes from users. This property takes two values: 
+ 1.	**hidden**: hide the element
+ 2.	**visible**: show the element
 
 **Border Images**: “border-image” property applies an image to the box’s borders. Take the background of an image and cut it to 9 pieces.
 
@@ -96,16 +97,17 @@ The property requires 3 pieces of information:
 
 The box must have a border width in order for the image to be shown.
 
-**Box Shadows**: “box-shadow” property used to add drop shadow to a box.  It has 4 values:
- -	Horizontal offset: negative value set the position of the shadow to the left
- -	Vertical offset: negative value set the position of the shadow to the top
- -	Blur distance: if it is removed, the shadow will appear like a solid line like a border
- -	Spread of Shadow:  positive value will make the shadow expand in all directions and vice versa if it is negative.
+**Box Shadows**: “**box-shadow**” property used to add drop shadow to a box.  It has 4 values:
+ -	**Horizontal offset**: negative value set the position of the shadow to the left
+ -	**Vertical offset**: negative value set the position of the shadow to the top
+ -	**Blur distance**: if it is removed, the shadow will appear like a solid line like a border
+ -	**Spread of Shadow**:  positive value will make the shadow expand in all directions and vice versa if it is negative.
 The “inset” keyword can be used before the four values to create inner shadow 
 
-**Rounded corners**: the “border-radius” property used to make round corners on any box, and its values indicates the size of the radius.
-I can specify each corner with different values, and they ordered clock wise.: 
-e.g: border-top-right-radius: 2px;
+**Rounded corners**: the “**border-radius**” property used to make round corners on any box, and its values indicates the size of the radius.
+
+I can specify each corner with different values, and they ordered clock wise.<br>
+e.g: border-top-right-radius: 2px;<br>
      border-bottom-right-radius: 3px;
 
 I can specify horizontal and vertical parts of the corner to make complex shapes.
@@ -124,14 +126,15 @@ e.g: border-top-left-radius: 30px 50px;
 
 e.g: color = [ ‘white’, ‘black’, ‘blue’] => this is called array literal
 
-e.g: color = new Array ( ‘white’, ‘black’, ‘blue’)  this is called array constructor
+e.g: color = new Array ( ‘white’, ‘black’, ‘blue’) => this is called array constructor
 
 The values in the array considered as numbers and the numbering of the list start with zero “0”.
 To change the value in an array is by specifying the index number of the value.
 e.g: colo[ 2] = ‘green’
 
-### Chapter 4: 
-Switch: switch statement start with a variable called switch value. And there are cases inside the switch statements, each one indicates a possibility for the switch value and each one has its code, the code will run if value matches the case.
+### Chapter 4: Decisions & Loops
+
+**Switch**: switch statement start with a variable called *switch value*. And there are cases inside the switch statements, each one indicates a possibility for the switch value and each one has its code, the code will run if value matches the case.
 
 switch (level) { 
 case 'One ': 
@@ -155,7 +158,7 @@ break;
 
 *It is more preferable to use strict equal operators because type coercion can lead to unexpected values and cause errors.*
 
-Truthy and Falsy values: 
+**Truthy and Falsy values**: 
  -	Falsy values: values treated as they were false.
  -	Truthy values: values treated as they were true<br>
 
@@ -163,8 +166,9 @@ Truthy and Falsy values:
 
  ![Truthy values](../img/class03/Truthyvalues.jpg)
 
-!
+
 CHECKING EQUALITY & EXISTENCE:
+
 *Unary operator*: it returns a result with one operand <br>
 
 ![JS strict equal operator & falsy values](../img/class03/JSstrictequaloperator&falsyvalues.jpg)

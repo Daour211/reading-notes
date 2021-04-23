@@ -2,8 +2,9 @@
 
 ### Chapter 5: Image
 
-**Adding images**: use < img> element to add image. The <img> element has two attributes:
- 1-	src: I write the link “URL” of the image 
+**Adding images**: use < img> element to add image. The < img> element has two attributes:
+
+ 1-	src: I write the link “URL” of the image <br>
  2-	alt: used to provide a description of the image, if it is not appearing 
 
 I can also add another two attributes to < img> element to control the width and height of the image:
@@ -118,10 +119,10 @@ I use “@font-face” to use font which is not installed to the computer of the
 
 ![leadinf for text diagram](../img/class05/leading-for-text.jpg)
 
-The property “line-height” sets the height of an entire line of text, so the difference between the font-size and the line-height is equivalent to the leading. And by increasing the line-height, it will make the vertical gap between lines of text larger.
+The property “**line-height**” sets the height of an entire line of text, so the difference between the font-size and the line-height is equivalent to the leading. And by increasing the line-height, it will make the vertical gap between lines of text larger.
 
 **Letter word and spacing**: the property “**letter-spacing**” used to control the space between each letter. This attribute helpful when you have heading or sentence all in uppercase.
-The property “word-spacing” to control the space between words.
+The property “**word-spacing”** to control the space between words.
 
 **Alignment**: the “**text-align**” property used to set the alignment of the text and it has four values:
  1.	left: the text will be aligned to the left
@@ -141,7 +142,7 @@ The property “word-spacing” to control the space between words.
 
 **Indenting text**: the “**text-indent”** property used to indent the first line of text within an element. The line indented can be specified in pixels or ems. It can take a negative value, which means it can be used to push text off the browser window.
 
-**Drop shadow**: the property “text-shadow” used to create a drop shadow, and can also be used to create an embossed effect by adding a shadow which is slightly lighter than the text. Its values take 3 lengths and a color.
+**Drop shadow**: the property “**text-shadow**” used to create a drop shadow, and can also be used to create an embossed effect by adding a shadow which is slightly lighter than the text. Its values take 3 lengths and a color.
 
  - The first length specifies how far from or right the shadow will fall.
  - The second length specifies the distance to the top or bottom the shadow will fall.
