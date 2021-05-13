@@ -1,4 +1,4 @@
-# reading-notes
+# Reading-Notes
 
 ### Introduction:
 
@@ -7,6 +7,17 @@ I am **Abdelrahman Mohammad**, Civil Engineer graduated from AUM. I have joined 
 My link on GitHub:
 
 [My profile](https://github.com/Daour211) looking forward to work with you mates. 
+
+### This website includes all the topics that we covered through out the course, and for each level there is a table of content which sum up all the material for that level.
+
+**The levels of the course**:
+ - Code 102 - Intro to Software Development
+ - Code 201 - Foundations of Software Development
+ - Code 301 - Intermediate Software Development
+ - Code 401 - Advanced Software Development
+
+
+
 
 ## Table of contents of 102: 
   
