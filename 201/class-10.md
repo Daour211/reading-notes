@@ -75,10 +75,10 @@ Using “**throw new Error*(‘ message ‘)**;” to create the error. This cre
 
 
 
-![Common Errors](../img/class10/Common-errors.jpg)
+![Common Errors](../img-201/class10/Common-errors.jpg)
 
 
 
-
+img 201/class10/Common-errors.jpg
 
 
