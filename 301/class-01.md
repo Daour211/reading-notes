@@ -138,3 +138,5 @@ All React components must act like pure functions with respect to their props.
  - [Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
  
  - [Components and Props](https://reactjs.org/docs/components-and-props.html)
+
+ - [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html#setup-option-1-write-code-in-the-browser)

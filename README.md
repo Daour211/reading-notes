@@ -61,3 +61,4 @@ My link on GitHub:
 |   Assignment     | Link                                              |
 |------------------|---------------------------------------------------|
 |class-01          | [React](301/class-01.md)| 
+|class-02          | [React Life Cycle/React State Vs Props/React Docs-State and Lifecycle/React Docs - handling events](301/class-02.md)| 
