@@ -81,10 +81,14 @@ Q2) List 4 things that the spread operator can do. <br>
 -	Using Math functions
 -	Using an array as arguments
 
-Q3) Give an example of using the spread operator to combine two arrays.
-Q4) Give an example of using the spread operator to add a new item to an array.
-Q5) Give an example of using the spread operator to combine two objects into one.
+Q3) Give an example of using the spread operator to combine two arrays.<br>
+![combining-arrays](../img-301/class03/combining-arrays.jpg) 
 
+Q4) Give an example of using the spread operator to add a new item to an array.<br>
+![adding-item-to-array](../img-301/class03/adding-item-to-array.jpg) 
+
+Q5) Give an example of using the spread operator to combine two objects into one.<br>
+![combining-objects](../img-301/class03/combining-objects.jpg) 
 
 
 ### How to Pass Functions Between Components

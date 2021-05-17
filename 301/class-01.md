@@ -103,7 +103,7 @@ Conceptually, components are like JavaScript functions. They accept arbitrary in
 **Rendering a Component**:
 When React sees an element representing a user-defined component, it passes JSX attributes and children to this component as a single object. We call this object “props”.
 
-![Examle](../img-301/example.jpg) 
+![Examle](../img-301/class01/example.jpg) 
 
 Let’s recap what happens in this example:
 
