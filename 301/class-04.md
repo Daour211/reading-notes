@@ -81,6 +81,6 @@ Q2) Rewrite the following statement using a ternary statement:<br>
 
 **Resources:**
 
- - (React Docs - Forms)[https://reactjs.org/docs/forms.html]
- - (The Conditional (Ternary) Operator Explained)[https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff]
+ - [React Docs - Forms](https://reactjs.org/docs/forms.html)
+ - [The Conditional (Ternary) Operator Explained](https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
 
