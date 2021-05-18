@@ -62,4 +62,5 @@ My link on GitHub:
 |------------------|---------------------------------------------------|
 |class-01          | [React](301/class-01.md)| 
 |class-02          | [React Life Cycle/React State Vs Props/React Docs-State and Lifecycle/React Docs - handling events](301/class-02.md)| 
-|class-01          | [React Docs - lists and keys/The Spread Operator/How to Pass Functions Between Components](301/class-03.md)| 
+|class-03          | [React Docs - lists and keys/The Spread Operator/How to Pass Functions Between Components](301/class-03.md)| 
+|class-04          | [React Docs - Forms/The Conditional (Ternary) Operator Explained](301/class-04.md)|

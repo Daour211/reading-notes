@@ -119,6 +119,6 @@ Using the setState , through another merthod
 
  - [The Spread Operator](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
 
- -[How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
+ - [How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
 
 
