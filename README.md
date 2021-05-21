@@ -65,3 +65,4 @@ My link on GitHub:
 |class-03          | [React Docs - lists and keys/The Spread Operator/How to Pass Functions Between Components](301/class-03.md)| 
 |class-04          | [React Docs - Forms/The Conditional (Ternary) Operator Explained](301/class-04.md)|
 |class-05          | [React Docs - thinking in React](301/class-05.md)|
+|class-06          | [An Introduction to Node.js on sitepoint.com/6 Reasons for Pair Programming](301/class-06.md)|
