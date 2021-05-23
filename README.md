@@ -66,3 +66,4 @@ My link on GitHub:
 |class-04          | [React Docs - Forms/The Conditional (Ternary) Operator Explained](301/class-04.md)|
 |class-05          | [React Docs - thinking in React](301/class-05.md)|
 |class-06          | [An Introduction to Node.js on sitepoint.com/6 Reasons for Pair Programming](301/class-06.md)|
+|class-07          | [How I explained REST to my brother](301/class-07.md)|
