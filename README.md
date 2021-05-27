@@ -70,3 +70,4 @@ My link on GitHub:
 |class-08          | [API Design Best Practices](301/class-08.md)|
 |class-09          | [Functional Programming Concepts/Node JS Tutorial for Beginners #6 - Modules and require()](301/class-09.md)|
 |class-10          |[## JavaScript error messages/Understanding the JavaScript Call Stack](301/class-10.md)|
+|class-11          |[What is OAuth/Authorization and Authentication flows](301/class-11.md)|
