@@ -61,14 +61,15 @@ My link on GitHub:
 |   Assignment     | Link                                              |
 |------------------|---------------------------------------------------|
 |class-01          | [React](301/class-01.md)| 
-|class-02          | [React Life Cycle/React State Vs Props/React Docs-State and Lifecycle/React Docs - handling events](301/class-02.md)| 
-|class-03          | [React Docs - lists and keys/The Spread Operator/How to Pass Functions Between Components](301/class-03.md)| 
+|class-02          | [React Life Cycle/ React State Vs Props/ React Docs-State and Lifecycle/ React Docs - handling events](301/class-02.md)| 
+|class-03          | [React Docs - lists and keys/The Spread Operator/ How to Pass Functions Between Components](301/class-03.md)| 
 |class-04          | [React Docs - Forms/The Conditional (Ternary) Operator Explained](301/class-04.md)|
 |class-05          | [React Docs - thinking in React](301/class-05.md)|
-|class-06          | [An Introduction to Node.js on sitepoint.com/6 Reasons for Pair Programming](301/class-06.md)|
+|class-06          | [An Introduction to Node.js on sitepoint.com/ 6 Reasons for Pair Programming](301/class-06.md)|
 |class-07          | [How I explained REST to my brother](301/class-07.md)|
 |class-08          | [API Design Best Practices](301/class-08.md)|
-|class-09          | [Functional Programming Concepts/Node JS Tutorial for Beginners #6 - Modules and require()](301/class-09.md)|
-|class-10          |[## JavaScript error messages/Understanding the JavaScript Call Stack](301/class-10.md)|
-|class-11          |[What is OAuth/Authorization and Authentication flows](301/class-11.md)|
+|class-09          | [Functional Programming Concepts/ Node JS Tutorial for Beginners #6 - Modules and require()](301/class-09.md)|
+|class-10          |[## JavaScript error messages/ Understanding the JavaScript Call Stack](301/class-10.md)|
+|class-11          |[What is OAuth/ Authorization and Authentication flows](301/class-11.md)|
 |class-12          |[nosql vs sql](301/class-12.md)|
+|class-13          |[Status Codes Based On REST Methods/ Build A REST API With Node.js, Express, & MongoDB - Quick -](301/class-13.md)|
