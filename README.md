@@ -70,7 +70,8 @@ My link on GitHub:
 
 ## Table of contents of 401:
 
-| Assignment | Link                                                                 |
-| ---------- | -------------------------------------------------------------------- |
-| class-01   | [Java Intro/ compiling/ Reading Java Documentation](401/class-01.md) |
-| class-02   | [Java Imports/ Types of loops in Java](401/class-02.md)              |
+| Assignment | Link                                                                            |
+| ---------- | ------------------------------------------------------------------------------- |
+| class-01   | [Java Intro/ compiling/ Reading Java Documentation](401/class-01.md)            |
+| class-02   | [Java Imports/ Types of loops in Java](401/class-02.md)                         |
+| class-03   | [Java Primitives versus Objects/ Exceptions in Java/ Scanning](401/class-03.md) |
